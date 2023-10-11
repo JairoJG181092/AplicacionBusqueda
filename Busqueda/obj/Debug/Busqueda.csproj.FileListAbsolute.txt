@@ -1,0 +1,10 @@
+C:\Jairo\Busqueda\Busqueda\bin\Debug\Busqueda.exe.config
+C:\Jairo\Busqueda\Busqueda\bin\Debug\Busqueda.exe
+C:\Jairo\Busqueda\Busqueda\bin\Debug\Busqueda.pdb
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.csproj.AssemblyReference.cache
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.Form1.resources
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.Properties.Resources.resources
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.csproj.GenerateResource.cache
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.csproj.CoreCompileInputs.cache
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.exe
+C:\Jairo\Busqueda\Busqueda\obj\Debug\Busqueda.pdb
