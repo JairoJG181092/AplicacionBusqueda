@@ -1,6 +1,8 @@
 # AplicacionBusqueda
-Aplicación para la búsqueda y mover archivos a carpetas especificas 
+Aplicación para la búsqueda y mover archivos a carpetas especificas
 
-Esta aplicacion te permite buscar archivos con cualquier dato que ingreses y seleccionar la carpeta de donde quieres que se realice la busqueda, seleccionar el destino y crea una carpeta con el nombre del texto ingresado.
+Esta aplicación se realizo con la finalidad de buscar canciones y moverlas de acuerdo al artista o nombre de lo que se esta buscando.
 
-Esta aplicacion se hizo con la finalidad de ordenamiento de canciones por artista, esto para un sonido que tenia ese problema.
+Se coloca cualquier palabra clave y se selecciona la ruta donde se requiere realizar la búsqueda y la ruta destino, a donde van a moverse los archivos. Al darle clic al botón de buscar encuentra todas las coincidencias en los nombres de los archivos basándose al texto ingresado, y te muestra una lista de los archivos que se encontraron. Cuando le damos clic en mover, mueve todas los archivos encontrados a la ruta destino, en caso de encontrar archivos duplicados no hace el copiado de los mismos, cuando no mueve los archivos hace una segunda lista en la cual se muestra los archivos que no se copiaron.
+
+Esta aplicación se desarrollo en ASP.NET, utilizando Windows Form, C#, y librerías para la manipulación de archivos y carpetas.
